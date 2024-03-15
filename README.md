@@ -4,3 +4,4 @@ Este pequeño script es algo que me toca diseñar otra vez,en el mismo puesto pe
 *En primer lugar entendiendo que un numero de celular cuenta con 10 caracteres
 *no debe contar con caracteres especiales
 *no debe contar idealmente con prefijo( +54 en ARG ) en caso de no ser necesario
+*no debe contar ni con 0 antes de la caracteristica , ni con el 15 entre la caracteristica y el restante del número
